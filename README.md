@@ -1,5 +1,6 @@
 [![Build Status](https://semaphoreci.com/api/v1/craftacademy/the_restful_seven/branches/development/badge.svg)](https://semaphoreci.com/craftacademy/the_restful_seven)
 
+[![Coverage Status](https://coveralls.io/repos/github/CraftAcademy/the_restful_seven/badge.svg?branch=development)](https://coveralls.io/github/CraftAcademy/the_restful_seven?branch=development)
 
 # Restful News
 
